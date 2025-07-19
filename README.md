@@ -6,7 +6,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ## 🖼️ Network Topology
 
-![Topology](/Project Topology.png)
+![Project Topology](Project%20Topology.png)
 
 ---
 
