@@ -1,6 +1,12 @@
-# 🏦 Zag Bank Network Project
+# 🏦 ITI - Bank Network Project
 
-This repository contains the complete configuration and documentation of a simulated network infrastructure for the new branch of Zag Bank.
+This repository contains the complete configuration and documentation of a simulated network infrastructure for the new branch of Bank.
+
+---
+
+## 🖼️ Network Topology
+
+![Topology](/Project Topology.png)
 
 ---
 
@@ -35,8 +41,10 @@ This repository contains the complete configuration and documentation of a simul
 
 ## 📁 Files Included
 
-- `Zag_Network_Project_Documentation.docx` – Full documentation of IP assignments and network design.
-- `Zag_Network.pkt` – Cisco Packet Tracer file containing the full lab setup and configuration (not included here – to be added).
+- `Project Documentation.docx` – Full documentation of IP assignments and network design.
+- `ITI-Bank Network Project.pkt` – Cisco Packet Tracer file containing the full lab setup and configuration (not included here – to be added).
+- `FLSM Subnetting Table.docx` – Subnetting table using Fixed Length Subnet Masking (FLSM).
+- `Project Topology.png` – Visual representation of the entire network topology.
 - `README.md` – Project overview.
 
 ---
@@ -53,7 +61,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ## 📬 Contact
 
-**Prepared by:** Yahya Shreif  
-**LinkedIn:** [linkedin.com/in/yahyashreif](https://linkedin.com/in/yahyashreif)
+**Prepared by:** Yahia Shreif Mohamed
+**LinkedIn:** [linkedin.com/in/yahia-shreif1](https://www.linkedin.com/in/yahia-shreif1/)
 
 Feel free to clone or fork this repository to explore or reuse parts of the network setup.
