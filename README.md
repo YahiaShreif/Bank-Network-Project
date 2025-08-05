@@ -1,16 +1,16 @@
-# 🏦 ITI - Bank Network Project
+# Bank Network Project
 
 This repository contains the complete configuration and documentation of a simulated network infrastructure for the new branch of Bank.
 
 ---
 
-## 🖼️ Network Topology
+## Network Topology
 
 ![Project Topology](Project%20Topology.png)
 
 ---
 
-## 🔧 Project Objectives
+## Project Objectives
 
 - Design a scalable and secure network for a bank branch.
 - Implement subnetting and VLAN segmentation.
@@ -21,7 +21,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ---
 
-## 🖥️ Network Structure
+## Network Structure
 
 - **Subnetting**: 172.16.10.0/24 divided into 8 subnets using /27 mask.
 - **VLANs**:
@@ -39,7 +39,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Project Documentation.docx` – Full documentation of IP assignments and network design.
 - `ITI-Bank Network Project.pkt` – Cisco Packet Tracer file containing the full lab setup and configuration (not included here – to be added).
@@ -49,7 +49,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ---
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 - Network design and IP planning
 - VLAN and inter-VLAN configuration
@@ -59,7 +59,7 @@ This repository contains the complete configuration and documentation of a simul
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Prepared by:** Yahia Shreif Mohamed
 **LinkedIn:** [linkedin.com/in/yahia-shreif1](https://www.linkedin.com/in/yahia-shreif1/)
