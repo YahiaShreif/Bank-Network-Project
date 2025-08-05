@@ -42,7 +42,7 @@ This repository contains the complete configuration and documentation of a simul
 ## Files Included
 
 - `Project Documentation.docx` – Full documentation of IP assignments and network design.
-- `ITI-Bank Network Project.pkt` – Cisco Packet Tracer file containing the full lab setup and configuration (not included here – to be added).
+- `Bank Network Project.pkt` – Cisco Packet Tracer file containing the full lab setup and configuration (not included here – to be added).
 - `FLSM Subnetting Table.docx` – Subnetting table using Fixed Length Subnet Masking (FLSM).
 - `Project Topology.png` – Visual representation of the entire network topology.
 - `README.md` – Project overview.
